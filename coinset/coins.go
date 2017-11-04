@@ -11,7 +11,7 @@ import (
 
 	"github.com/discoltk/btcd/chaincfg/chainhash"
 	"github.com/discoltk/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/discoltk/btcutil"
 )
 
 // Coin represents a spendable transaction outpoint

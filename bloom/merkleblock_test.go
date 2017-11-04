@@ -11,8 +11,8 @@ import (
 
 	"github.com/discoltk/btcd/chaincfg/chainhash"
 	"github.com/discoltk/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/discoltk/btcutil"
+	"github.com/discoltk/btcutil/bloom"
 )
 
 func TestMerkleBlock3(t *testing.T) {

@@ -13,8 +13,8 @@ import (
 
 	"github.com/discoltk/btcd/btcec"
 	"github.com/discoltk/btcd/chaincfg"
-	"github.com/btcsuite/btcutil/base58"
-	"github.com/btcsuite/btcutil/bech32"
+	"github.com/discoltk/btcutil/base58"
+	"github.com/discoltk/btcutil/bech32"
 	"golang.org/x/crypto/ripemd160"
 )
 

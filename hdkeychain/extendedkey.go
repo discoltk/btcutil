@@ -21,8 +21,8 @@ import (
 	"github.com/discoltk/btcd/btcec"
 	"github.com/discoltk/btcd/chaincfg"
 	"github.com/discoltk/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/discoltk/btcutil"
+	"github.com/discoltk/btcutil/base58"
 )
 
 const (

@@ -13,8 +13,8 @@ import (
 
 	"github.com/discoltk/btcd/chaincfg/chainhash"
 	"github.com/discoltk/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/coinset"
+	"github.com/discoltk/btcutil"
+	"github.com/discoltk/btcutil/coinset"
 )
 
 type TestCoin struct {
